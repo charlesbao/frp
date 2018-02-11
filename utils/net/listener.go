@@ -19,8 +19,8 @@ import (
 	"net"
 	"sync"
 
-	"github.com/fatedier/frp/utils/errors"
-	"github.com/fatedier/frp/utils/log"
+	"github.com/charlesbao/frp/utils/errors"
+	"github.com/charlesbao/frp/utils/log"
 )
 
 type Listener interface {

@@ -7,11 +7,11 @@ import (
 	"sync"
 	"time"
 
-	"github.com/fatedier/frp/models/msg"
-	"github.com/fatedier/frp/utils/errors"
-	"github.com/fatedier/frp/utils/log"
-	"github.com/fatedier/frp/utils/pool"
-	"github.com/fatedier/frp/utils/util"
+	"github.com/charlesbao/frp/models/msg"
+	"github.com/charlesbao/frp/utils/errors"
+	"github.com/charlesbao/frp/utils/log"
+	"github.com/charlesbao/frp/utils/pool"
+	"github.com/charlesbao/frp/utils/util"
 )
 
 // Timeout seconds.

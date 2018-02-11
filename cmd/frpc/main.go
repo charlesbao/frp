@@ -31,10 +31,10 @@ import (
 	"github.com/rodaine/table"
 	ini "github.com/vaughan0/go-ini"
 
-	"github.com/fatedier/frp/client"
-	"github.com/fatedier/frp/models/config"
-	"github.com/fatedier/frp/utils/log"
-	"github.com/fatedier/frp/utils/version"
+	"github.com/charlesbao/frp/client"
+	"github.com/charlesbao/frp/models/config"
+	"github.com/charlesbao/frp/utils/log"
+	"github.com/charlesbao/frp/utils/version"
 )
 
 var (

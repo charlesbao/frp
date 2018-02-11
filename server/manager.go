@@ -19,9 +19,9 @@ import (
 	"io"
 	"sync"
 
-	frpIo "github.com/fatedier/frp/utils/io"
-	frpNet "github.com/fatedier/frp/utils/net"
-	"github.com/fatedier/frp/utils/util"
+	frpIo "github.com/charlesbao/frp/utils/io"
+	frpNet "github.com/charlesbao/frp/utils/net"
+	"github.com/charlesbao/frp/utils/util"
 )
 
 type ControlManager struct {

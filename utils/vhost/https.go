@@ -20,8 +20,8 @@ import (
 	"strings"
 	"time"
 
-	frpNet "github.com/fatedier/frp/utils/net"
-	"github.com/fatedier/frp/utils/pool"
+	frpNet "github.com/charlesbao/frp/utils/net"
+	"github.com/charlesbao/frp/utils/pool"
 )
 
 const (

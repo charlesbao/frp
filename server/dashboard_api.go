@@ -18,10 +18,10 @@ import (
 	"encoding/json"
 	"net/http"
 
-	"github.com/fatedier/frp/models/config"
-	"github.com/fatedier/frp/models/consts"
-	"github.com/fatedier/frp/utils/log"
-	"github.com/fatedier/frp/utils/version"
+	"github.com/charlesbao/frp/models/config"
+	"github.com/charlesbao/frp/models/consts"
+	"github.com/charlesbao/frp/utils/log"
+	"github.com/charlesbao/frp/utils/version"
 
 	"github.com/julienschmidt/httprouter"
 )

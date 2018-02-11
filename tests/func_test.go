@@ -10,9 +10,9 @@ import (
 	"github.com/gorilla/websocket"
 	"github.com/stretchr/testify/assert"
 
-	"github.com/fatedier/frp/client"
-	"github.com/fatedier/frp/server"
-	"github.com/fatedier/frp/utils/net"
+	"github.com/charlesbao/frp/client"
+	"github.com/charlesbao/frp/server"
+	"github.com/charlesbao/frp/utils/net"
 )
 
 var (

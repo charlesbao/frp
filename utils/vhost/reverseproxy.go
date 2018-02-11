@@ -17,7 +17,7 @@ import (
 	"sync"
 	"time"
 
-	frpIo "github.com/fatedier/frp/utils/io"
+	frpIo "github.com/charlesbao/frp/utils/io"
 )
 
 // onExitFlushLoop is a callback set by tests to detect the state of the

@@ -22,8 +22,8 @@ import (
 	"net/http"
 	"strings"
 
-	frpIo "github.com/fatedier/frp/utils/io"
-	frpNet "github.com/fatedier/frp/utils/net"
+	frpIo "github.com/charlesbao/frp/utils/io"
+	frpNet "github.com/charlesbao/frp/utils/net"
 )
 
 const PluginHttpProxy = "http_proxy"

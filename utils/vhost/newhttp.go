@@ -25,8 +25,8 @@ import (
 	"sync"
 	"time"
 
-	frpLog "github.com/fatedier/frp/utils/log"
-	"github.com/fatedier/frp/utils/pool"
+	frpLog "github.com/charlesbao/frp/utils/log"
+	"github.com/charlesbao/frp/utils/pool"
 )
 
 var (

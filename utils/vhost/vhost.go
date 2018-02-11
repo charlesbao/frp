@@ -18,9 +18,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/fatedier/frp/utils/errors"
-	"github.com/fatedier/frp/utils/log"
-	frpNet "github.com/fatedier/frp/utils/net"
+	"github.com/charlesbao/frp/utils/errors"
+	"github.com/charlesbao/frp/utils/log"
+	frpNet "github.com/charlesbao/frp/utils/net"
 )
 
 type muxFunc func(frpNet.Conn) (frpNet.Conn, map[string]string, error)

@@ -22,15 +22,15 @@ import (
 	"sync"
 	"time"
 
-	"github.com/fatedier/frp/models/config"
-	"github.com/fatedier/frp/models/msg"
-	"github.com/fatedier/frp/models/plugin"
-	"github.com/fatedier/frp/models/proto/udp"
-	"github.com/fatedier/frp/utils/errors"
-	frpIo "github.com/fatedier/frp/utils/io"
-	"github.com/fatedier/frp/utils/log"
-	frpNet "github.com/fatedier/frp/utils/net"
-	"github.com/fatedier/frp/utils/pool"
+	"github.com/charlesbao/frp/models/config"
+	"github.com/charlesbao/frp/models/msg"
+	"github.com/charlesbao/frp/models/plugin"
+	"github.com/charlesbao/frp/models/proto/udp"
+	"github.com/charlesbao/frp/utils/errors"
+	frpIo "github.com/charlesbao/frp/utils/io"
+	"github.com/charlesbao/frp/utils/log"
+	frpNet "github.com/charlesbao/frp/utils/net"
+	"github.com/charlesbao/frp/utils/pool"
 )
 
 // Proxy defines how to deal with work connections for different proxy type.

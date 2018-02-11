@@ -1,4 +1,4 @@
-package: github.com/fatedier/frp
+package: github.com/charlesbao/frp
 import:
 - package: github.com/armon/go-socks5
   version: e75332964ef517daa070d7c38a9466a0d687e0a5

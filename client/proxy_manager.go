@@ -4,11 +4,11 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/fatedier/frp/models/config"
-	"github.com/fatedier/frp/models/msg"
-	"github.com/fatedier/frp/utils/errors"
-	"github.com/fatedier/frp/utils/log"
-	frpNet "github.com/fatedier/frp/utils/net"
+	"github.com/charlesbao/frp/models/config"
+	"github.com/charlesbao/frp/models/msg"
+	"github.com/charlesbao/frp/utils/errors"
+	"github.com/charlesbao/frp/utils/log"
+	frpNet "github.com/charlesbao/frp/utils/net"
 )
 
 const (
